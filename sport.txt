@@ -1,0 +1,45 @@
+Dubai Duty Free Tennis Championship
+7
+222
+0
+20
+Ski Dubai Super Pass
+8
+222
+12
+70
+Extreme Quad Bike Riding
+9
+222
+13
+120
+Rome segway tour
+7
+111
+0
+20
+Rome Bike tour
+8
+111
+12
+70
+Football
+9
+111
+13
+120
+Football
+7
+333
+0
+20
+Hiking
+8
+333
+0
+20
+Rugby
+9
+333
+0
+20
